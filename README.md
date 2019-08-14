@@ -11,3 +11,4 @@ Below you can see a table with all the details.
 |      Swap Salary (MySQL)      |         [here](https://leetcode.com/problems/swap-salary/)          |    easy    |  319ms  |  N/A   | 2018  |
 |    Merge Two Binary Trees     |    [here](https://leetcode.com/problems/merge-two-binary-trees/)    |    easy    |  144ms  |  N/A   | 2018  |
 | Reverse Words in a string III | [here](https://leetcode.com/problems/reverse-words-in-a-string-iii) |    easy    |  124ms  |  N/A   | 2018  |
+|    No boring Movies (SQL)     |      [here](https://leetcode.com/problems/not-boring-movies/)       |    easy    |  139ms  |  N/A   | 2018  |
