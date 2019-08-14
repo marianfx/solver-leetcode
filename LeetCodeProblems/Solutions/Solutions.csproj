@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <Folder Include="BigCountries %28SQL%29\" />
+    <Folder Include="NoBoringMovies %28SQL%29\" />
     <Folder Include="SwapSalary %28SQL%29\" />
   </ItemGroup>
 
